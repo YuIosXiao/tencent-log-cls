@@ -17,11 +17,11 @@ class App : Application() {
 
         mContext = applicationContext
 
-        val endpoint = "ap-guangzhou.cls.tencentcs.com"
-        val secretId = ""
-        val secretKey = ""
-
-        clsClient = AsyncClient(endpoint, secretId, secretKey, NetworkUtils.getLocalMachineIP(), 5, 10)
+//        val endpoint = "ap-guangzhou.cls.tencentcs.com"
+//        val secretId = ""
+//        val secretKey = ""
+//
+//        clsClient = AsyncClient(endpoint, secretId, secretKey, NetworkUtils.getLocalMachineIP(), 5, 10)
     }
 
 }
