@@ -1,17 +1,16 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.arch.core:core-runtime:2.0.0@aar">
     <CLASSES>
-      <root url="file://D:/AndroidTool/gradle-6.1.1/caches/transforms-3/a3f4330316080b8deea63078c0732f7b/transformed/core-runtime-2.0.0/res" />
-      <root url="file://D:/AndroidTool/gradle-6.1.1/caches/transforms-3/a5b29bd1bda6487905aab0638ff46fd2/transformed/core-runtime-2.0.0/res" />
-      <root url="file://D:/AndroidTool/gradle-6.1.1/caches/transforms-3/920e3e18c1dd04d79dc0e9a06cbb38da/transformed/core-runtime-2.0.0/res" />
-      <root url="file://D:/AndroidTool/gradle-6.1.1/caches/transforms-3/724820b9ccb5c27402de25a058e04b0e/transformed/core-runtime-2.0.0/res" />
+      <root url="jar://D:/AndroidTool/gradle-6.1.1/caches/transforms-2/files-2.1/74128933024a87546de04359b604a450/core-runtime-2.0.0/jars/classes.jar!/" />
       <root url="file://D:/AndroidTool/gradle-6.1.1/caches/transforms-2/files-2.1/74128933024a87546de04359b604a450/core-runtime-2.0.0/res" />
       <root url="file://D:/AndroidTool/gradle-6.1.1/caches/transforms-2/files-2.1/74128933024a87546de04359b604a450/core-runtime-2.0.0/AndroidManifest.xml" />
-      <root url="jar://D:/AndroidTool/gradle-6.1.1/caches/transforms-2/files-2.1/74128933024a87546de04359b604a450/core-runtime-2.0.0/jars/classes.jar!/" />
+      <root url="file://D:/AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/74128933024a87546de04359b604a450/core-runtime-2.0.0/AndroidManifest.xml" />
+      <root url="jar://D:/AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/74128933024a87546de04359b604a450/core-runtime-2.0.0/jars/classes.jar!/" />
+      <root url="file://D:/AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/74128933024a87546de04359b604a450/core-runtime-2.0.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://D:/AndroidTool/gradle-6.1.1/caches/modules-2/files-2.1/androidx.arch.core/core-runtime/2.0.0/bc41b287c95bc50a3cd27cb1b7cfb301805ba7f1/core-runtime-2.0.0-sources.jar!/" />
+      <root url="jar://D:/AndroidTool/gradle-7.0.2/caches/modules-2/files-2.1/androidx.arch.core/core-runtime/2.0.0/bc41b287c95bc50a3cd27cb1b7cfb301805ba7f1/core-runtime-2.0.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

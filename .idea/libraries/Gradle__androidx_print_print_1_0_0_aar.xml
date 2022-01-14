@@ -2,19 +2,19 @@
   <library name="Gradle: androidx.print:print:1.0.0@aar">
     <ANNOTATIONS>
       <root url="jar://D:/AndroidTool/gradle-6.1.1/caches/transforms-2/files-2.1/405823df62d6047c786ec2b040c6a7a1/print-1.0.0/annotations.zip!/" />
+      <root url="jar://D:/AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/405823df62d6047c786ec2b040c6a7a1/print-1.0.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="file://D:/AndroidTool/gradle-6.1.1/caches/transforms-3/42ffa41eed66a835645ab26fba929fd1/transformed/print-1.0.0/res" />
-      <root url="file://D:/AndroidTool/gradle-6.1.1/caches/transforms-3/ccb88f38b46132cb146eda3234f9db8a/transformed/print-1.0.0/res" />
-      <root url="file://D:/AndroidTool/gradle-6.1.1/caches/transforms-3/8009e65ab119dcb896fce38059e3f0f4/transformed/print-1.0.0/res" />
-      <root url="file://D:/AndroidTool/gradle-6.1.1/caches/transforms-3/12fb89d7cff89f82e0fa98f1bcaf2fc6/transformed/print-1.0.0/res" />
-      <root url="file://D:/AndroidTool/gradle-6.1.1/caches/transforms-2/files-2.1/405823df62d6047c786ec2b040c6a7a1/print-1.0.0/AndroidManifest.xml" />
-      <root url="file://D:/AndroidTool/gradle-6.1.1/caches/transforms-2/files-2.1/405823df62d6047c786ec2b040c6a7a1/print-1.0.0/res" />
       <root url="jar://D:/AndroidTool/gradle-6.1.1/caches/transforms-2/files-2.1/405823df62d6047c786ec2b040c6a7a1/print-1.0.0/jars/classes.jar!/" />
+      <root url="file://D:/AndroidTool/gradle-6.1.1/caches/transforms-2/files-2.1/405823df62d6047c786ec2b040c6a7a1/print-1.0.0/res" />
+      <root url="file://D:/AndroidTool/gradle-6.1.1/caches/transforms-2/files-2.1/405823df62d6047c786ec2b040c6a7a1/print-1.0.0/AndroidManifest.xml" />
+      <root url="jar://D:/AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/405823df62d6047c786ec2b040c6a7a1/print-1.0.0/jars/classes.jar!/" />
+      <root url="file://D:/AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/405823df62d6047c786ec2b040c6a7a1/print-1.0.0/res" />
+      <root url="file://D:/AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/405823df62d6047c786ec2b040c6a7a1/print-1.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://D:/AndroidTool/gradle-6.1.1/caches/modules-2/files-2.1/androidx.print/print/1.0.0/71fc2d9acf7cce6b96230c5af263268b1664914a/print-1.0.0-sources.jar!/" />
+      <root url="jar://D:/AndroidTool/gradle-7.0.2/caches/modules-2/files-2.1/androidx.print/print/1.0.0/71fc2d9acf7cce6b96230c5af263268b1664914a/print-1.0.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

@@ -1,17 +1,16 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.loader:loader:1.0.0@aar">
     <CLASSES>
-      <root url="file://D:/AndroidTool/gradle-6.1.1/caches/transforms-3/53928e2cc559551714407f53694b9aaf/transformed/loader-1.0.0/res" />
-      <root url="file://D:/AndroidTool/gradle-6.1.1/caches/transforms-3/0beebe741760ab9476a5bc04ba0340f0/transformed/loader-1.0.0/res" />
-      <root url="file://D:/AndroidTool/gradle-6.1.1/caches/transforms-3/9c109fb1ca7f62967693aab23f957c41/transformed/loader-1.0.0/res" />
-      <root url="file://D:/AndroidTool/gradle-6.1.1/caches/transforms-3/d631f246babeda9986f207d7686847d5/transformed/loader-1.0.0/res" />
       <root url="jar://D:/AndroidTool/gradle-6.1.1/caches/transforms-2/files-2.1/ecd8147d860dedfa32ed442ab367f308/loader-1.0.0/jars/classes.jar!/" />
-      <root url="file://D:/AndroidTool/gradle-6.1.1/caches/transforms-2/files-2.1/ecd8147d860dedfa32ed442ab367f308/loader-1.0.0/AndroidManifest.xml" />
       <root url="file://D:/AndroidTool/gradle-6.1.1/caches/transforms-2/files-2.1/ecd8147d860dedfa32ed442ab367f308/loader-1.0.0/res" />
+      <root url="file://D:/AndroidTool/gradle-6.1.1/caches/transforms-2/files-2.1/ecd8147d860dedfa32ed442ab367f308/loader-1.0.0/AndroidManifest.xml" />
+      <root url="file://D:/AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/ecd8147d860dedfa32ed442ab367f308/loader-1.0.0/res" />
+      <root url="file://D:/AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/ecd8147d860dedfa32ed442ab367f308/loader-1.0.0/AndroidManifest.xml" />
+      <root url="jar://D:/AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/ecd8147d860dedfa32ed442ab367f308/loader-1.0.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://D:/AndroidTool/gradle-6.1.1/caches/modules-2/files-2.1/androidx.loader/loader/1.0.0/b9ef587f3e46c7fe5b00264989764e43ff45cada/loader-1.0.0-sources.jar!/" />
+      <root url="jar://D:/AndroidTool/gradle-7.0.2/caches/modules-2/files-2.1/androidx.loader/loader/1.0.0/b9ef587f3e46c7fe5b00264989764e43ff45cada/loader-1.0.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

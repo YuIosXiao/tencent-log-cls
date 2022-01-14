@@ -1,17 +1,16 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.dynamicanimation:dynamicanimation:1.0.0@aar">
     <CLASSES>
-      <root url="file://D:/AndroidTool/gradle-6.1.1/caches/transforms-3/32674c6e946521f0760a899ad1763b48/transformed/dynamicanimation-1.0.0/res" />
-      <root url="file://D:/AndroidTool/gradle-6.1.1/caches/transforms-3/3646318f6817d87ebef7981416e9991d/transformed/dynamicanimation-1.0.0/res" />
-      <root url="file://D:/AndroidTool/gradle-6.1.1/caches/transforms-3/ac9ffaedd904d75e9fd611466356243e/transformed/dynamicanimation-1.0.0/res" />
-      <root url="file://D:/AndroidTool/gradle-6.1.1/caches/transforms-3/5cab38d77821c50ed38acac21071f5c7/transformed/dynamicanimation-1.0.0/res" />
+      <root url="jar://D:/AndroidTool/gradle-6.1.1/caches/transforms-2/files-2.1/17c0da5eb2dd2f8eb606a13cc3a70bec/dynamicanimation-1.0.0/jars/classes.jar!/" />
       <root url="file://D:/AndroidTool/gradle-6.1.1/caches/transforms-2/files-2.1/17c0da5eb2dd2f8eb606a13cc3a70bec/dynamicanimation-1.0.0/res" />
       <root url="file://D:/AndroidTool/gradle-6.1.1/caches/transforms-2/files-2.1/17c0da5eb2dd2f8eb606a13cc3a70bec/dynamicanimation-1.0.0/AndroidManifest.xml" />
-      <root url="jar://D:/AndroidTool/gradle-6.1.1/caches/transforms-2/files-2.1/17c0da5eb2dd2f8eb606a13cc3a70bec/dynamicanimation-1.0.0/jars/classes.jar!/" />
+      <root url="jar://D:/AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/17c0da5eb2dd2f8eb606a13cc3a70bec/dynamicanimation-1.0.0/jars/classes.jar!/" />
+      <root url="file://D:/AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/17c0da5eb2dd2f8eb606a13cc3a70bec/dynamicanimation-1.0.0/AndroidManifest.xml" />
+      <root url="file://D:/AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/17c0da5eb2dd2f8eb606a13cc3a70bec/dynamicanimation-1.0.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://D:/AndroidTool/gradle-6.1.1/caches/modules-2/files-2.1/androidx.dynamicanimation/dynamicanimation/1.0.0/5c050e29af5033ff5e2d58ccf657ae92fdfbda4a/dynamicanimation-1.0.0-sources.jar!/" />
+      <root url="jar://D:/AndroidTool/gradle-7.0.2/caches/modules-2/files-2.1/androidx.dynamicanimation/dynamicanimation/1.0.0/5c050e29af5033ff5e2d58ccf657ae92fdfbda4a/dynamicanimation-1.0.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

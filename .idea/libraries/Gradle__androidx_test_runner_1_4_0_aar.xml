@@ -1,19 +1,18 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.test:runner:1.4.0@aar">
     <CLASSES>
-      <root url="file://D:/AndroidTool/gradle-6.1.1/caches/transforms-3/a2faca4f288a716792e6c4b9829851ba/transformed/runner-1.4.0/res" />
-      <root url="file://D:/AndroidTool/gradle-6.1.1/caches/transforms-3/c744773f5fa02e1e46affe9d5f7b7220/transformed/runner-1.4.0/res" />
-      <root url="file://D:/AndroidTool/gradle-6.1.1/caches/transforms-3/1018c4175cbda92e1a71652aa87e43c4/transformed/runner-1.4.0/res" />
-      <root url="file://D:/AndroidTool/gradle-6.1.1/caches/transforms-3/b6eacad434e32e9ae34da970b9925cd8/transformed/runner-1.4.0/res" />
-      <root url="file://D:/AndroidTool/gradle-6.1.1/caches/transforms-2/files-2.1/b1322065f6c6ae24d75b8b2a425e8c92/runner-1.4.0/AndroidManifest.xml" />
       <root url="jar://D:/AndroidTool/gradle-6.1.1/caches/transforms-2/files-2.1/b1322065f6c6ae24d75b8b2a425e8c92/runner-1.4.0/jars/classes.jar!/" />
       <root url="file://D:/AndroidTool/gradle-6.1.1/caches/transforms-2/files-2.1/b1322065f6c6ae24d75b8b2a425e8c92/runner-1.4.0/res" />
+      <root url="file://D:/AndroidTool/gradle-6.1.1/caches/transforms-2/files-2.1/b1322065f6c6ae24d75b8b2a425e8c92/runner-1.4.0/AndroidManifest.xml" />
+      <root url="file://D:/AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/b1322065f6c6ae24d75b8b2a425e8c92/runner-1.4.0/res" />
+      <root url="file://D:/AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/b1322065f6c6ae24d75b8b2a425e8c92/runner-1.4.0/AndroidManifest.xml" />
+      <root url="jar://D:/AndroidTool/gradle-7.0.2/caches/transforms-2/files-2.1/b1322065f6c6ae24d75b8b2a425e8c92/runner-1.4.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://D:/AndroidTool/gradle-6.1.1/caches/modules-2/files-2.1/androidx.test/runner/1.4.0/aee6a62a26d9b413dadc1732e66cc4ef3bcf9d61/runner-1.4.0-javadoc.jar!/" />
+      <root url="jar://D:/AndroidTool/gradle-7.0.2/caches/modules-2/files-2.1/androidx.test/runner/1.4.0/aee6a62a26d9b413dadc1732e66cc4ef3bcf9d61/runner-1.4.0-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://D:/AndroidTool/gradle-6.1.1/caches/modules-2/files-2.1/androidx.test/runner/1.4.0/11ef580a9f2ea2fba4d060a3121506197bd6b183/runner-1.4.0-sources.jar!/" />
+      <root url="jar://D:/AndroidTool/gradle-7.0.2/caches/modules-2/files-2.1/androidx.test/runner/1.4.0/11ef580a9f2ea2fba4d060a3121506197bd6b183/runner-1.4.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
